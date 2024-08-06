@@ -45,3 +45,7 @@ Now, you can test the api with the base URL: http://localhost:8080/api
 
 
   Following the above instructions you will get all the required functions.
+
+
+******IMPORTANT:- The repository that has all the configuration for login and authentication in is present in this repo.  https://github.com/Anubhav8176/AndroidAssessment
+But the application has some configurational errors.********
