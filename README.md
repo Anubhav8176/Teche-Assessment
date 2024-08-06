@@ -23,6 +23,7 @@ test all the mentioned features by the PostMan that I will mention later in this
 Now, you can test the api with the base URL: http://localhost:8080/api
 
   =>/student:-
+  
     **/addStudent: for adding student in the database->
                     {
                       "name": "John Doe",
@@ -35,9 +36,12 @@ Now, you can test the api with the base URL: http://localhost:8080/api
 
     **/getAllStudents: for getting all the students.
 
-    **getAllSub?studentName={param}-> param is name in the db. It gets all the subjects the student has.
+    **getAllSub?studentName={param}
+              -> param is name in the db. It gets all the subjects the student has.
 
-  =>/subject/getAllSub: for fetching all the subjects in the database.
+  =>/subject:-
+  
+    **/getAllSub: for fetching all the subjects in the database.
 
 
   Following the above instructions you will get all the required functions.
